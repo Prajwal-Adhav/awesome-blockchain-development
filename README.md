@@ -90,6 +90,7 @@ A curated list of blockchain, cryptocurrency and fintech resources for software 
 
 ## Blockchain API and Web services
 * [block.io](https://block.io)
+* [Bitquery.io](https://docs.bitquery.io/v1/) - Bitquery provides blockchain data, offering real-time streaming APIs for 40+ chains, NFT APIs, and a money flow investigation tool.
 * [BlockCypher](http://www.blockcypher.com)
 * [Gem.co](https://gem.co)
 * [Insight](https://insight.is)
